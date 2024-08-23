@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     "ckeditor",
     'django_cleanup',
     'bootstrap4',
-    'crispy_bootstrap4'
     
 ]
 
