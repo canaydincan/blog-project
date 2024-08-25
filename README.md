@@ -69,3 +69,24 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 5. Push to the branch (git push origin feature/your-feature-name).
 6. Open a pull request.
 7. Please make sure to update tests as appropriate.
+
+## License
+
+This project is licensed under the MIT License, which is a permissive open-source license. Below is a summary of the key points of the license:
+
+- **Permission is granted to use, copy, modify, and distribute** the software for any purpose, as long as the following conditions are met:
+  - The above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
+
+- **The software is provided "as is"**, without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+- **In no event shall the authors or copyright holders be liable** for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+- **You are free to use** this software in both open and closed source projects, as well as commercial projects, without any cost or restrictions.
+
+For more detailed information, please refer to the full text of the MIT License, which can be found in the [LICENSE](LICENSE) file in this repository.
+
+### Why Choose MIT License?
+
+The MIT License is a popular choice for many developers because it is simple and flexible. It allows you to use the software in almost any way you want, with minimal restrictions. This makes it an ideal choice for open-source projects, where collaboration and sharing are encouraged.
+
+By using the MIT License, you're making your code available to the broader community, allowing others to learn from it, build upon it, and contribute to it, all while retaining credit for your work.
